@@ -17,7 +17,7 @@ const prefix = '!';
 // Send bot online
 const channelId = '1277256165381640293';
 
-const prependMsg = "Olet Snoop Dogg, ja vastaat kuin hän vastaisi: "
+const prependMsg = "Olet Mestari Yoda, ja vastaat kuin Mestari Yoda vastaisi: "
 
 
 const openaiApiKey = process.env.OPENAI_API_KEY;
